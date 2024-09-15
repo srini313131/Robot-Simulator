@@ -40,4 +40,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 - Use the direction buttons to rotate the robot to desired direction
 - clicking the "move" button moves the robot in the set direction by one cell.
 
+ ### working version of the app can accessed below:
+  [robot simulator](https://robot-simulator-red.vercel.app/)
+
 Thanks for the opportunity and hope to hear from the engineering team.
